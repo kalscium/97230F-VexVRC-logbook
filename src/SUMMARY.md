@@ -2,6 +2,6 @@
 [Information](./info.md)
 [Team Members](./team-members.md)
 
-# Index
-- [Template](entries/template/summary.md)
-  - [Detailed Report](entries/template/detailed-report.md)
+# Entries
+- [2024-05-01](entries/2024-05-01.md)
+<!-- - [Template](entries/template.md) -->
