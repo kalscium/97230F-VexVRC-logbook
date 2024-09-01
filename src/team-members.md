@@ -10,35 +10,42 @@
 
 ## Hudson
 ---
-- **Roles:** Team Captain & Main Builder
-- ![](assets/team-members/Hudson.jpg)
+**Roles:** Team Captain & Main Builder
+
+![](assets/team-members/Hudson.jpg)
 
 ## Aaron
 ---
-- **Roles:** Main Builder & Strategist
-- ![](assets/team-members/Aaron.jpg)
+**Roles:** Main Builder & Strategist
+
+![](assets/team-members/Aaron.jpg)
 
 ## Charlie
 ---
-- **Roles:** Driver & Strategist
-- ![](assets/team-members/Charlie.jpg)
+**Roles:** Driver & Strategist
+
+![](assets/team-members/Charlie.jpg)
 
 ## Jake
 ---
-- **Roles:** Backup Driver & Builder
-- ![](assets/team-members/Jake.jpg)
+**Roles:** Backup Driver & Builder
+
+![](assets/team-members/Jake.jpg)
 
 ## Ethan
 ---
-- **Roles:** Only Programmer & maintainer of the `safe-vex` library
-- ![](assets/team-members/Ethan.jpg)
+**Roles:** Sole Programmer & maintainer of the `safe-vex` library
+
+![](assets/team-members/Ethan.jpg)
 
 ## Daniel
 ---
-- **Roles:** Strategist & Main Logbooker
-- ![](assets/team-members/Daniel.jpg)
+**Roles:** Strategist & Main Logbooker
+
+![](assets/team-members/Daniel.jpg)
 
 ## Issac
 ---
-- **Roles:** Builder & Design Tester
-- ![](assets/team-members/Issac.jpg)
+**Roles:** Builder & Design Tester
+
+![](assets/team-members/Issac.jpg)
