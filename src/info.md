@@ -3,8 +3,9 @@
 - **Team School:** [Highvale Secondary College](https://www.highvalesc.vic.edu.au/)
 - **Team Number/ID:** `97230F`
 - **Team Name:** BotGo*Brrr*
-- **Robot Code's** [Github Repo](https://github.com/GreenChild04/BotGoBrrr)
+- **Robot Code's** [Github Repo](https://github.com/kalscium/BotGoBrrr)
 - *The programming language the robot's code is written in:* *[`rust`](https://www.rust-lang.org/)*
+- *This logbook is also available at [https://kalscium.github.io/97230F-VexVRC-logbook](https://kalscium.github.io/97230F-VexVRC-logbook) as a markdown book*
 
 # Introduction
 ---
