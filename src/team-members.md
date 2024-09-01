@@ -26,12 +26,6 @@
 
 ![](assets/team-members/Charlie.jpg)
 
-## Jake
----
-**Roles:** Backup Driver & Builder
-
-![](assets/team-members/Jake.jpg)
-
 ## Ethan
 ---
 **Roles:** Sole Programmer & maintainer of the `safe-vex` library
@@ -43,6 +37,12 @@
 **Roles:** Strategist & Main Logbooker
 
 ![](assets/team-members/Daniel.jpg)
+
+## Jake
+---
+**Roles:** Backup Driver & Builder
+
+![](assets/team-members/Jake.webp)
 
 ## Issac
 ---
