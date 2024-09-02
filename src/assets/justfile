@@ -1,3 +1,9 @@
+# Converts a vertical image to webp
 [no-cd]
-convert file_path out_path:
+convertv file_path out_path:
     cwebp {{file_path}} -o {{out_path}} -resize 217 289 -q 100
+
+# Converts a horisontal image to webp
+[no-cd]
+convertl file_path out_path:
+    cwebp {{file_path}} -o {{out_path}} -resize 289 217 -q 100
