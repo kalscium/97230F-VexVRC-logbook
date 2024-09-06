@@ -44,7 +44,7 @@
 ---
 > The sole programmer of the group that maintains the robot-code and the rust library that it depends upon *(`safe-vex`)*.
 >
-> His main role is to implement any requests from the main builders *(Hudson and Aaron)* or *(Charlie)* into the robot's code, in either the controls of the robot, or the external components that he program interacts with through the flexable model of bytecode.
+> His main role is to implement any requests from the main builders *(Hudson and Aaron)* or *(Charlie)* into the robot's code, in either the controls of the robot, or the external components that the program interacts with through the flexable model of bytecode.
 
 **Roles:** Sole Programmer & maintainer of the `safe-vex` library
 
