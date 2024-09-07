@@ -15,4 +15,5 @@
 - [2024-05-29](entries/2024-05-29.md)
 - [2024-06-04](entries/2024-06-04.md)
 - [2024-06-05](entries/2024-06-05.md)
+- [2024-07-24](entries/2024-07-24.md)
 <!-- - [Template](entries/template.md) -->
