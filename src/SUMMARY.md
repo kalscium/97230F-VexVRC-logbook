@@ -23,4 +23,5 @@
 - [2024-08-24 (CopperField College Competition)](entries/2024-08-24.md)
 - [2024-09-05](entries/2024-09-05.md)
 - [2024-09-06](entries/2024-09-06.md)
+- [2024-09-08](entries/2024-09-08.md)
 <!-- - [Template](entries/template.md) -->
