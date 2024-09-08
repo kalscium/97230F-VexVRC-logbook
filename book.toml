@@ -3,4 +3,8 @@ authors = ["kalscium"]
 language = "en"
 multilingual = false
 src = "src"
-title = "`97230F` VexVRC Logbook"
+title = "97230F VexVRC Logbook"
+
+[output.html]
+smart-punctuation = true
+mathjax-support = true
