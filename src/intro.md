@@ -1,6 +1,6 @@
 # `97230F`'s VexVRC Engineering Notebook
 ---
-![](http://www.jpbooks.com.au/pics/highvale-sm.jpg)
+![Highvale Logo](assets/logo.svg)
 
 - **Team School:** [Highvale Secondary College](https://www.highvalesc.vic.edu.au/)
 - **Team Number/ID:** `97230F`
@@ -15,4 +15,4 @@ Welcome to *Vex VRC Robotics Team `97230F`*'s Digital Engineering Notebook! This
 
 Team `97230F` holds Robotics meetings on some Tuesday lunchtimes, and all Wednesday lunchtimes and afternoons. The team consists of seven members, each with their own unique roles based on their own individual skills.
 
-**References:** [Rulebook, along with **VEX** forums](https://content.vexrobotics.com/docs/2024-2025/v5rc-high-stakes/High-Stakes-0806.pdf)
+**References:** [Rulebook](https://content.vexrobotics.com/docs/2024-2025/v5rc-high-stakes/High-Stakes-0806.pdf), along with [**VEX** forums](https://www.vexforum.com/)
