@@ -5,8 +5,9 @@
 - **Team School:** [Highvale Secondary College](https://www.highvalesc.vic.edu.au/)
 - **Team Number/ID:** `97230F`
 - **Team Name:** BotGo*Brrr*
-- **Robot Code's** [Github Repo](https://github.com/kalscium/BotGoBrrr)
-- *The programming language the robot's code is written in:* *[`rust`](https://www.rust-lang.org/)*
+- **Robot Code's** [Github Repo](https://github.com/kalscium/BotGoBrrr) *([https://github.com/kalscium/BotGoBrrr](https://github.com/kalscium/BotGoBrrr))*
+- *The programming language the robot's code is implemented in:* *[`rust`](https://www.rust-lang.org/)* *(primarily)*, *[`c`](https://en.wikipedia.org/wiki/C_(programming_language)) (for fun)* and *[`zig`](https://ziglang.org/)* *(a work in progress)*
+- *The robot's code is either a rust, c or zig compiled binary that's statically linked to the [PROS library by Purdue University](https://pros.cs.purdue.edu)*
 - *This logbook is also available at [https://kalscium.github.io/97230F-VexVRC-logbook](https://kalscium.github.io/97230F-VexVRC-logbook) as a markdown book*
 
 # Introduction
