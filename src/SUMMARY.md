@@ -24,4 +24,6 @@
 - [2024-09-05](entries/2024-09-05.md)
 - [2024-09-06](entries/2024-09-06.md)
 - [2024-09-08](entries/2024-09-08.md)
+- [2024-09-09 (Berwick College Competition)](entries/2024-09-09.md)
+
 <!-- - [Template](entries/template.md) -->
